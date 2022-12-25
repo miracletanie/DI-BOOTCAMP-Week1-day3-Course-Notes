@@ -1,0 +1,24 @@
+.class1{
+display: flex;
+flex-direction: column;
+border: 1px solid red;   
+
+
+}
+.item{
+    background-color: aqua;
+    padding: 40px;
+    align-content: space-between;
+    
+}
+
+.itemm{
+    background-color: aqua;
+    padding: 60px;
+    align-content: space-between;
+    width: 50%; 
+    margin-bottom: 20px;
+    margin-top: 20px; 
+    margin-left: auto;
+    margin-right: auto
+}
